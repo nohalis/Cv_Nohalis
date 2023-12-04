@@ -1,6 +1,8 @@
 nav{
     background-color:black; 
     font-family: "Roboto", sans-serif;
+    margin: 0;
+    padding: 0;
 }
 .primera-parte{
     margin: 20px;
@@ -15,3 +17,4 @@ nav{
     font-family: "Roboto", sans-serif;
     align-items: center;   
 }
+
