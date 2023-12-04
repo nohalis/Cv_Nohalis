@@ -1,0 +1,17 @@
+nav{
+    background-color:black; 
+    font-family: "Roboto", sans-serif;
+}
+.primera-parte{
+    margin: 20px;
+    align-items: center;
+    text-align: center;
+}
+.img-primera-parte{
+    margin: 20px;
+  border-radius: 50%;
+}
+.nav-portafolio{
+    font-family: "Roboto", sans-serif;
+    align-items: center;   
+}
